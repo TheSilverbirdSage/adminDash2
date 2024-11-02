@@ -10,7 +10,6 @@ import {
   Bars3Icon,
 } from '@heroicons/react/24/outline'; // Ensure correct import path
 import Image from "next/image";
-import Link from 'next/link';
 
 interface SidebarItemProps {
   icon: React.FC<React.SVGProps<SVGSVGElement>>;
